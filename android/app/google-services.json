@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121130728692",
+    "project_id": "unjeong-6b434",
+    "storage_bucket": "unjeong-6b434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121130728692:android:49a37bfc67cdee7958f2a1",
+        "android_client_info": {
+          "package_name": "com.dataInfinity.unjeong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMhn7a4TyoRI2sVS3t9EKMeN2sP60Wdas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121130728692:android:cb69b79bbd0388f058f2a1",
+        "android_client_info": {
+          "package_name": "com.unjeong.uj_community"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMhn7a4TyoRI2sVS3t9EKMeN2sP60Wdas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
